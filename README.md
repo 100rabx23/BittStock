@@ -80,7 +80,7 @@ Generate Reports: Create detailed PDF reports for insights and sharing.
 1. Starting interface:
 
    ![sxr1](./BittStock/assets/src1.png)
-   
+   ![Screen](BittStock/assets/src2.png)
 
 3. Analysis:
 
