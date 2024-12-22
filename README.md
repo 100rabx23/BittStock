@@ -1,6 +1,6 @@
 # 📈 BittStock  [Stock Trend and Future Prediction Application] 
 
-![Logo](./BittStock/assets/logoanim.mp4)  
+![Logo](./BittStock/assets/logoam.gif)  
 
 **An interactive Python-based application for analyzing stock trends, calculating metrics, and predicting future prices.**  
 
