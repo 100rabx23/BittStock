@@ -79,11 +79,11 @@ Generate Reports: Create detailed PDF reports for insights and sharing.
 
 1. Starting interface:
 
-   ![sxr1](./BittStock/assets/src1.png)
+   ![sxr1](./BittStock/BittStock/assets/src1.png)
 
 2. Analysis:
 
-   ![sxr1](./BittStock/assets/src3.png)
+   ![sxr1](./BittStock/BittStock/assets/src3.png)
 
    
 ## 🤝 Contributing
