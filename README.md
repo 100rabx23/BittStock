@@ -74,6 +74,18 @@ Analyze Data: View trends, calculate metrics, and visualize results interactivel
 Predict Prices: Generate predictions for the next 30 days.
 Generate Reports: Create detailed PDF reports for insights and sharing.
 
+
+## Screnshots 
+
+1. Starting interface:
+
+   ![sxr1](./BittStock/assets/src1.png)
+
+2. Analysis:
+
+   ![sxr1](./BittStock/assets/src3.png)
+
+   
 ## 🤝 Contributing
 
 Contributions are welcome! Please fork the repository and create a pull request with your changes.
