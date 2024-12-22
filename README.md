@@ -45,3 +45,26 @@ BittStock/
 │   ├── main.py                           
 ├── README.md                # Project documentation  
 ├── requirements.txt         # Python dependencies  
+
+## 🔧 Installation
+
+### Prerequisites
+- Python 3.8 or higher
+
+### Ensure you have the required libraries installed:
+```bash
+pip install -r requirements.txt
+
+## Running the Application
+Clone the repository:
+
+'''bash
+git clone https://github.com/your-username/StockTrendPrediction.git
+Navigate to the project directory:
+
+'''bash
+cd StockTrendPrediction
+Run the application:
+
+'''bash
+python src/main.py
