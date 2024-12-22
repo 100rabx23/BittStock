@@ -1,4 +1,4 @@
-# 📈 Stock Trend and Price Prediction Application  
+# 📈 Stock Trend and Price Prediction Application [BittStock] 
 
 ![Logo](./assets/logo.gif)  
 
@@ -37,13 +37,10 @@
 
 ```plaintext
 StockTrendPrediction/  
-├── assets/                  # Folder for images, logos, and GIFs  
-│   └── logo.gif             # Logo GIF  
-├── data/                    # Folder for sample or uploaded datasets  
-├── reports/                 # Folder for generated PDF reports  
-├── src/                     # Source code  
-│   ├── main.py              # Main application file  
-│   ├── utils.py             # Helper functions for data processing  
-│   ├── model.py             # Machine learning model implementation  
+├── assets/                    
+│   └── logo.gif             
+├── reports/                   
+├── src/                       
+│   ├── main.py                           
 ├── README.md                # Project documentation  
 ├── requirements.txt         # Python dependencies  
