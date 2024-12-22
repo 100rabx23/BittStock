@@ -80,11 +80,14 @@ Generate Reports: Create detailed PDF reports for insights and sharing.
 1. Starting interface:
 
    ![sxr1](https://github.com/100rabx23/BittStock/blob/main/BittStock/assets/scr1.png)
-   ![Screen](BittStock/assets/src2.png)
 
-3. Analysis:
+2. Analysis:
 
-   ![sxr1](./BittStock/assets/src3.png)
+     ![sxr1](https://github.com/100rabx23/BittStock/blob/main/BittStock/assets/scr2.png)
+
+3. Prediction:
+
+   ![sxr1](https://github.com/100rabx23/BittStock/blob/main/BittStock/assets/scr3.png)
 
    
 ## 🤝 Contributing
