@@ -44,27 +44,51 @@ BittStock/
 ├── src/                       
 │   ├── main.py                           
 ├── README.md                # Project documentation  
-├── requirements.txt         # Python dependencies  
+├── requirements.txt         # Python dependencies
+
+```
+---
 
 ## 🔧 Installation
+-Prerequisites
+--Python 3.8 or higher
+---Ensure you have the required libraries installed:
+```sh
+    pip install -r requirements.txt
+```
+1. Clone the repository:
+```sh
+    git clone https://github.com/100rabx23/BittStock/.git
+```
+2. Navigate to the project directory:
+```sh
+    cd BittStock
+```
+3. Run the application:
+```sh
+    python src/main.py
+```
+## 📊 How to Use
+Launch the App: Run the application and upload your stock data in CSV format.
+Analyze Data: View trends, calculate metrics, and visualize results interactively.
+Predict Prices: Generate predictions for the next 30 days.
+Generate Reports: Create detailed PDF reports for insights and sharing.
 
-### Prerequisites
-- Python 3.8 or higher
+## 🤝 Contributing
 
-### Ensure you have the required libraries installed:
-```bash
-pip install -r requirements.txt
+Contributions are welcome! Please fork the repository and create a pull request with your changes.
 
-## Running the Application
-Clone the repository:
+1. Fork the repository
+2. Create your feature branch (`git checkout -b feature/YourFeature`)
+3. Commit your changes (`git commit -m 'Add some feature'`)
+4. Push to the branch (`git push origin feature/YourFeature`)
+5. Open a pull request
 
-'''bash
-git clone https://github.com/your-username/StockTrendPrediction.git
-Navigate to the project directory:
+## License
 
-'''bash
-cd StockTrendPrediction
-Run the application:
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-'''bash
-python src/main.py
+## 📬 Contact
+For queries or feedback, reach out to:
+Saurabh Singh
+Email: saurabhx2004@gmail.com
