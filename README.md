@@ -1,4 +1,4 @@
-# 📈 Stock Trend and Price Prediction Application [BittStock] 
+# 📈 BittStock  [Stock Trend and Future Prediction Application] 
 
 ![Logo](./assets/logo.gif)  
 
@@ -36,7 +36,7 @@
 ## 📂 Project Structure  
 
 ```plaintext
-StockTrendPrediction/  
+BittStock/  
 ├── assets/                    
 │   └── logo.gif             
 ├── reports/                   
