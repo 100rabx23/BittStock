@@ -40,7 +40,7 @@
 BittStock/  
 ├── assets/                    
 │   └── logo.gif             
-├── reports/                   
+├── DataSets/                   
 ├── src/                       
 │   ├── main.py                           
 ├── README.md                # Project documentation  
