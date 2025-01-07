@@ -1,4 +1,4 @@
-
+...........
 # 📈 BittStock  [Stock Trend and Future Prediction Application] 
 <center>
 
